@@ -70,7 +70,7 @@ Este módulo estabelece as regras de circulação terrestre, focando-se na condu
 - **Rotunda:** Praça formada por um cruzamento ou entroncamento, sinalizada como tal, onde o trânsito flui obrigatoriamente em sentido giratório (**Artigo 1.º**).
 - **Visibilidade reduzida ou insuficiente:** Conceito legal verificado sempre que o condutor não consiga avistar a faixa de rodagem em toda a sua largura numa extensão mínima de 50 metros (**Artigo 19.º**).
 
-### Artigos Relevantes [AQUI!!!]
+### Artigos Relevantes
 
 - **Artigo 11.º (Condução de veículos e animais):** Obriga a presença de condutor para qualquer veículo ou animal, proibindo práticas que prejudiquem a segurança da condução ou coloquem em perigo os utilizadores vulneráveis (coima de 60 € a 300 €).
 - **Artigo 12.º (Início de marcha):** Exige a sinalização antecipada e a adoção de precauções para evitar acidentes antes de iniciar ou retomar a marcha (coima de 60 € a 300 €).
